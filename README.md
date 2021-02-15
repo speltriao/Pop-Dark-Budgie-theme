@@ -7,4 +7,4 @@
 
 ![ScreenShot](print.png)
 
-<p>It's heavily based on https://github.com/darkomarko42/Marwaita-ubuntu so I followed the GNU GPL3 license (as stated on .CSS file).</p>
+<p>It's heavily based on https://github.com/darkomarko42/Marwaita-Pop_os so I followed the GNU GPL3 license (as stated on .CSS file).</p>
